@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f0b643a1-ca50-4377-b9bb-891f93abb82a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kpi-dashboard.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kpi-dashboard.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Dashboard/CDRDashbard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dashboard/CDRDashbard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Dashboard/Card.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dashboard/Card.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Team/Team.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Team/Team.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staticComponents/Spinner.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/staticComponents/Spinner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/css/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/css/index.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tX76K0bdc5bEY2Yrf3ufVLpM26" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f0b643a1-ca50-4377-b9bb-891f93abb82a" name="Default Changelist" comment="" />
+      <created>1622903404964</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622903404964</updated>
+      <workItem from="1622903409022" duration="3351000" />
+      <workItem from="1622970073319" duration="1325000" />
+      <workItem from="1622990441532" duration="854000" />
+      <workItem from="1632844701358" duration="675000" />
+      <workItem from="1633025978853" duration="637000" />
+      <workItem from="1633287186682" duration="127000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
